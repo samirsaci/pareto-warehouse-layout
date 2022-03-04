@@ -11,6 +11,12 @@ This principle called the “Pareto Principle”, “the 80–20 rule” or “T
 - 80% of your volume is picked in 20% of your picking locations
 - 80% of your replenishment volume will be performed on 20% of your picking locations
 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=BRjhhdWjPc4"><img src="https://i.ytimg.com/an_webp/BRjhhdWjPc4/mqdefault_6s.webp?du=3000&sqp=CJSahZEG&rs=AOn4CLCu2APhzCh-BdoYmfMhyDuHkISCsw" alt="Explainer Video Link"></a>
+</div>
+
 ### Medium Article
 In this [Medium Article](https://towardsdatascience.com/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e), we will explore how to apply this Pareto Principle 
 to optimize the layout of a Warehouse
