@@ -14,8 +14,7 @@ This principle called the “Pareto Principle”, “the 80–20 rule” or “T
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a alt="Black-and-white portrait of Vilfredo Pareto, an Italian economist known for developing the Pareto Principle. He has a full beard and mustache, neatly groomed, and wears a formal jacket over a high-collared shirt. Pareto’s contributions to economics are significant, with the 80/20 rule being widely applied in various fields, including logistics and warehouse optimization, where his principle helps improve operational efficiency by focusing on the most impactful items."
-    href="https://www.youtube.com/watch?v=BRjhhdWjPc4"><img src="https://github.com/samirsaci/pareto-warehouse-layout/blob/master/thumbnail.webp" alt="Explainer Video Link"></a>
+  <a    href="https://www.youtube.com/watch?v=BRjhhdWjPc4"><img src="https://github.com/samirsaci/pareto-warehouse-layout/blob/master/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
 ### Article
