@@ -31,6 +31,7 @@ to optimize the layout of a Warehouse
 This repository code you will find all the code used to explain the concepts tackeld in the article with a dataset of orders.
 
 ## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
+Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
+For consulting or advising on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://wwww.logi-green.com/).
+For more content, have a look at my personal blog: [Personal Website](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
