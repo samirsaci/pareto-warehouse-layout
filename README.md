@@ -18,7 +18,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://medium.com/towards-data-science/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e), we will explore how to apply this Pareto Principle 
+In this [Article](https://www.samirsaci.com/reduce-warehouse-space-with-the-pareto-principle-using-python/), we will explore how to apply this Pareto Principle 
 to optimize the layout of a Warehouse
 - 1 month of picking orders
 - 144,339 order lines
