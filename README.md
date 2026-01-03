@@ -36,6 +36,22 @@ to optimise the layout of a Warehouse
 ## Code
 In this repository, you will find all the code used to explain the concepts tackled in the article with a dataset of orders.
 
+### Files
+- `Pareto Analysis.ipynb` - Jupyter notebook with step-by-step analysis
+- `pareto_analysis.py` - Standalone Python script
+- `data/` - Folder containing input data (1-2017.csv)
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python pareto_analysis.py
+```
+
+### Dependencies
+- pandas
+- matplotlib
+- openpyxl
+
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
 For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/) \
